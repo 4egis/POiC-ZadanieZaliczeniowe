@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/programs/clion/POiC++ZadanieZaliczeniowe/cmake-build-debug",
-		"source" : "D:/programs/clion/POiC++ZadanieZaliczeniowe"
+		"build" : "C:/Users/jedrz/CLionProjects/POiC-ZadanieZaliczeniowe/cmake-build-debug",
+		"source" : "C:/Users/jedrz/CLionProjects/POiC-ZadanieZaliczeniowe"
 	},
 	"version" : 
 	{
