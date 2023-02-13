@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jedrz/CLionProjects/POiC-ZadanieZaliczeniowe
+# Install script for directory: D:/programs/clion/POiC++ZadanieZaliczeniowe
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jedrz/CLionProjects/POiC-ZadanieZaliczeniowe/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/programs/clion/POiC++ZadanieZaliczeniowe/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
